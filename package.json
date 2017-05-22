@@ -1,0 +1,20 @@
+{
+  "name": "euro-keyboard",
+  "version": "1.0.0",
+  "description": "simple keyboard for extended European non-latin characters (diacritics, accents, etc)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcrbrm/euro-keyboard.git"
+  },
+  "keywords": ["keyboard", "diacritics", "accents"],
+  "author": "Web Cerebrium <webcerebrium@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcrbrm/euro-keyboard/issues"
+  },
+  "homepage": "https://github.com/wcrbrm/euro-keyboard#readme"
+}
